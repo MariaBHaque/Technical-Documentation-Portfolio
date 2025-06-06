@@ -5,7 +5,7 @@
 - Write clear, user-centered documentation
 - Use Markdown, Git, and GitHub to manage docs
 - Create onboarding content and instructional guides
-  
+
 ## Projects Included
 
 ### Project 1: Work Email & Calendar Setup Guide
