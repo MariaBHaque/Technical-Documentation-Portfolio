@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-👋 Hello! I'm Maria, a transitioning technical writer with a background in education and an MA in English Literature. This portfolio showcases my first documentation projects, demonstrating my ability to:
+👋 Hello! I'm Maria. I'm transitioning into technical documentation with a background in education and an MA in English Literature. This portfolio showcases my first documentation projects, demonstrating my ability to:
 
 - Write clear, user-centered documentation
 - Use Markdown, Git, and GitHub to manage docs
