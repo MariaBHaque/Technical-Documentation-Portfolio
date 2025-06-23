@@ -1,8 +1,8 @@
 # Technical Writing Portfolio
 
-👋 Hello! I'm Maria. I'm transitioning into technical documentation with a background in education and an MA in English Literature. This portfolio showcases my first documentation projects, demonstrating my ability to:
+👋 Hello! I'm Maria. I'm transitioning into technical documentation with a background in education and an MA in English Literature. This portfolio showcases my early documentation projects, demonstrating my ability to:
 
-- Write clear, user-centered documentation
+- Write clear, task-based, user-centered documentation
 - Use Markdown, Git, and GitHub to manage docs
 - Create onboarding content and instructional guides
 
@@ -23,4 +23,5 @@ A sample onboarding guide for new employees written in Markdown. Includes:
 - Git/GitHub version control
 - Audience-aware tone and clarity
 
-__More Projects Coming Soon!__
+__More Projects Coming Soon, including:__
+- A DITA-based structured guide (currently in development)
