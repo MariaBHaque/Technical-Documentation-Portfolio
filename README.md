@@ -23,5 +23,5 @@ A sample onboarding guide for new employees written in Markdown. Includes:
 - Git/GitHub version control
 - Audience-aware tone and clarity
 
-__More Projects Coming Soon, including:__
-- A DITA-based structured guide (currently in development)
+__More projects coming soon, including:__
+- A DITA-based dog adoption guide (currently in development)
