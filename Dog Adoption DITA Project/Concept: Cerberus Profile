@@ -35,11 +35,11 @@
       <title>Medical and Health History</title>
         <p>Cerberus is a healthy puppy with a few health challenges, but he is healing well.</p>
           <ul>
-      		  <li>Not neutered yet - recommended at 12–18 months</li>
+            <li>Not neutered yet - recommended at 12–18 months</li>
             <li>Paws are healing from scrapes, minor injury</li>
-      			<li><note type="warning">Currently recovering from kennel cough</note></li>
-     				<li>Previously kept in long-term boarding for 3 months</li>
-      			<li>Had fleas upon arrival (now treated)</li>
+            <li><note type="warning">Currently recovering from kennel cough</note></li>
+            <li>Previously kept in long-term boarding for 3 months</li>
+            <li>Had fleas upon arrival (now treated)</li>
      				<li>Healing bite mark on his ear</li>
    			  </ul>
      		  <note type="tip">Avoid walking him on hot asphalt or concrete. He is afraid of heat on his paws, but can be coaxed with treats.</note>
