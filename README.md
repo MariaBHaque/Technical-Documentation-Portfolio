@@ -14,7 +14,7 @@ A sample onboarding guide for new employees written in Markdown. Includes:
 - Troubleshooting contact info
 - FAQs
 
-[View the user guide here](Technical%20Writing%20Portfolio/UserGuide)  
+[View the user guide here](Sample20%User20%Guide/UserGuide)  
 
 ## Skills Demonstrated
 
