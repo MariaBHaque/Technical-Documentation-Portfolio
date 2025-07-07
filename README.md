@@ -35,4 +35,4 @@ A DITA project with structured XML topics.
 – UX-driven research and audience analysis  
 – Scalable, reusable documentation with conditional filtering
 
-__More projects coming soon!_
+_More projects coming soon!_
