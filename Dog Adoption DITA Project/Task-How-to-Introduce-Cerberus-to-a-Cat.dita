@@ -1,0 +1,114 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Cat-Cerberus-Introduction">
+  <title>How to Introduce Cerberus to a Cat</title>
+  <shortdesc>
+    Cerberus is best suited in a cat-free home. However, Cerberus may be able to coexist with a cat through proper training and gradual and monitored introductions. 
+    This guide does not guarantee that Cerberus will be able to coexist with a resident cat.
+  </shortdesc>
+
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Begin with Separation and Scent Sharing (Days 1–4)</cmd>
+        <info>
+          <ul>
+            <li>Keep Cerberus and the cat in separate rooms with closed doors.</li>
+            <li>Swap bedding or use scented towels to exchange smells daily.</li>
+            <li>Place each animal’s food bowl near opposite sides of a closed door to create positive scent associations.</li>
+          </ul>
+          <note>
+            Be patient with this stage. Cats often hide or avoid contact when they smell a new dog, and it may take time before they feel comfortable leaving their safe space.
+          </note>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Facilitate Visual Introduction Through a Barrier</cmd>
+        <info>
+          <ul>
+            <li>After several days, allow visual but not physical access by using a baby or pet gate.</li>
+            <li>Keep Cerberus on a leash and at a distance; let the cat roam freely on the other side of the barrier.</li> 
+          </ul>
+          <note>
+            Reward calm behavior in both animals. Strong barriers are essential, as gates or crates may not be enough to contain Cerberus if he becomes reactive.
+          </note>
+        </info>
+      </step>
+            
+      <step>
+        <cmd>Hold Leashed, Supervised Meetings</cmd>
+        <info>
+          <ul>
+            <li>When both pets remain calm, bring them into the same space under controlled conditions.</li>
+            <li>Keep Cerberus leashed and the cat free to exit at any time; reward calm behavior with treats and praise.</li>
+          </ul>
+          <note>
+            Keep sessions short (just a few minutes) and gradually increase the duration as comfort grows. 
+            Controlled conditions include low noise, low traffic, and a predictable space.
+          </note>
+          <note>
+            Cerberus may display strong reactions, such as intense staring, stiff posture, barking, and lunging. 
+            He does not currently respond well to treat-based redirection during these episodes, so handlers must be ready to remove him calmly if he escalates.
+          </note>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Allow Curiosity from a Distance</cmd>
+        <info>
+          <p>
+            If Cerberus fixates on the cat, mark and reward any moment he shifts his focus away. 
+            This helps teach him that calm disengagement is rewarded.
+          </p>
+          <note>
+            Dogs can detect cats by scent before they see them. Watch closely for early signs of tension (stiffness, deep sniffing, fixated posture) and redirect before it escalates.
+          </note>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Allow Unsupervised Access Only When Truly Ready</cmd>
+        <info>
+          <ul>
+            <li>Unsupervised time should only begin when both the cat and Cerberus can eat, rest, and move calmly around each other without tension.</li>
+            <li>Continue to provide escape routes and high resting areas for the cat.</li>
+          </ul>
+          <note>
+            Expect this to take weeks or months. Moving too quickly increases the risk of conflict and can set back progress.
+          </note>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Maintain Ongoing Support and Environment Management</cmd>
+        <info>
+          <ul>
+            <li>Always separate Cerberus and the cat when no one is home.</li>
+            <li>Provide multiple litter boxes and water stations so the cat can avoid Cerberus when needed.</li>
+            <li>Continue reinforcing calm commands like “leave it” and seek professional support if progress stalls or aggression escalates.</li>
+          </ul>
+        </info>
+      </step>
+    </steps>
+
+    <postreq>
+      <p><b>Redirecting Fixation</b></p>
+      <p>If Cerberus locks eyes, tenses, or freezes at the cat, do not scold or yank him away. Instead:</p>
+      <ul>
+        <li>Watch for small signs of relaxation or disengagement: blinking, sniffing, head turns, or looking at you.</li>
+        <li>Mark and reward any moment of calm focus or self-regulation with treats, calm praise, or gentle play.</li>
+        <li>Keep sessions short and neutral, and end them on a positive note.</li>
+      </ul>
+      <note>
+        If fixation escalates (barking, lunging, growling), pause the session and increase physical distance. 
+        A decompression walk before the next introduction can also help.
+      </note>
+      <p>The goal is to build tolerance, not force obedience. Teach Cerberus that looking calmly at
+        the cat and then disengaging leads to a reward. This builds focus without increasing stress. </p>
+      <p><b>Outcome</b></p>
+      <p>This process is likely to be slow and challenging, but with consistency and safety
+        measures, Cerberus may gradually learn to coexist with a cat. Professional trainer support
+        is highly recommended for homes with resident cats. </p>
+    </postreq>
+  </taskbody>
+</task>

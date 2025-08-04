@@ -1,0 +1,123 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="behavior-log">
+  <title>Behavior Log</title>
+  <shortdesc>
+    This log helps you track Cerberus’s behavior each day. 
+    Use it to write down what happened, what you did, and what worked. 
+    Share the log with the foster team or trainer if needed.
+  </shortdesc>
+
+  <refbody>
+    <section>
+      <title>How to Use This Log</title>
+      <ul>
+        <li>Write in the log once or twice a day.</li>
+        <li>Be clear about what happened and what you did to help.</li>
+        <li>Track things like eating, sleeping, bathroom habits, and reactions to people or pets.</li>
+        <li>Write down small wins or improvements you notice.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Behavior Log Table</title>
+      <simpletable>
+        <sthead>
+          <stentry>Date</stentry>
+          <stentry>Trigger (What Happened?)</stentry>
+          <stentry>Behavior (What Cerberus Did)</stentry>
+          <stentry>What You Did</stentry>
+          <stentry>Outcome (How He Calmed)</stentry>
+          <stentry>Notes / Wins</stentry>
+        </sthead>
+
+        <strow>
+          <stentry>2025-07-26</stentry>
+          <stentry>E.g., Visitor at the door</stentry>
+          <stentry>E.g., Barked and paced</stentry>
+          <stentry>E.g., Guided to crate with treat</stentry>
+          <stentry>E.g., Calmed in 5 minutes</stentry>
+          <stentry>E.g., Barked less than last time</stentry>
+        </strow>
+
+        <strow>
+            <stentry>
+              <p> </p>
+              <p> </p>
+            </stentry>
+            <stentry>
+              <p> </p>
+              <p> </p>
+            </stentry>
+            <stentry>
+              <p> </p>
+              <p> </p>
+            </stentry>
+            <stentry>
+              <p> </p>
+              <p> </p>
+            </stentry>
+            <stentry>
+              <p> </p>
+              <p> </p>
+            </stentry>
+            <stentry>
+              <p> </p>
+              <p> </p>
+            </stentry>
+          </strow>
+        <strow>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+        </strow>
+        <strow>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+          <stentry>
+            <p> </p>
+            <p> </p>
+          </stentry>
+        </strow>
+      </simpletable>
+    </section>
+  </refbody>
+</reference>

@@ -1,0 +1,52 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="Cerberus-Supply-List">
+  <title>Cerberus Supply List</title> 
+  <shortdesc>
+    This list shows the crate, food, and chew toys Cerberus currently uses. 
+    Each item includes a brand name and an Amazon link for convenience.
+  </shortdesc>
+
+  <refbody>
+    <section>
+      <title>Crate</title>
+      <ul>
+        <li>
+          <b>[Crate brand and size]</b>  
+          (<xref href="[Amazon link]">View on Amazon</xref>)
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Food</title>
+      <ul>
+        <li>
+          <b>[Food brand, formula, bag size]</b>  
+          (<xref href="[Amazon link]">View on Amazon</xref>)
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Chew Toys</title>
+      <ul>
+        <li>
+          <b>[Chew toy brand and description]</b>  
+          (<xref href="[Amazon link]">View on Amazon</xref>)
+        </li>
+        <li>
+          <b>[Chew toy brand and description]</b>  
+          (<xref href="[Amazon link]">View on Amazon</xref>)
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Note</title>
+      <note>
+        Amazon links may change or go out of stock. 
+        If a link no longer works, search for the brand name and product description on Amazon or a trusted pet retailer.
+      </note>
+    </section>
+  </refbody>
+</reference>

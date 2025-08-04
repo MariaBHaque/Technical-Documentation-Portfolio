@@ -1,0 +1,112 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="cerberus-health-record">
+  <title>Cerberus Health and Vaccination Record</title>
+  <shortdesc>This record shows Cerberus’s medical history, vaccination dates, and treatments for easy sharing with fosters, adopters, and vets.</shortdesc>
+
+  <refbody>
+    <section>
+      <title>Dog Details</title>
+      <ul>
+        <li><b>Name:</b> Cerberus</li>
+        <li><b>Breed:</b> Boxer / German Shepherd (Mix)</li>
+        <li><b>Sex: </b>Male</li>
+        <li><b>Age:</b> 10 months old</li>
+        <li><b>Weight:</b> 51.6 lbs</li>
+        <li><b>Neutered:</b> No</li>
+        <li><b>Microchipped:</b> No</li>
+        <li><b>Allergies: </b>None officially, but sneezes and itches frequently (testing allergy
+          chews)</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Vaccination Summary</title>
+      <p>Based on Grace Animal Hospital and Tender Heart Mobile Veterinary Services records:</p>
+      <simpletable>
+        <sthead>
+          <stentry>Vaccine</stentry>
+          <stentry>Date Given</stentry>
+          <stentry>Next Due</stentry>
+          <stentry>Clinic</stentry>
+        </sthead>
+        <strow>
+          <stentry>Rabies</stentry>
+          <stentry>2025-01-07</stentry>
+          <stentry>2026-01-07</stentry>
+          <stentry>Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+        <strow>
+          <stentry>DHPP (Core)</stentry>
+          <stentry>2025-01-07</stentry>
+          <stentry>2026-01-07</stentry>
+          <stentry>Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+        <strow>
+          <stentry>Leptospirosis</stentry>
+          <stentry>2025-01-07</stentry>
+          <stentry>2026-01-07</stentry>
+          <stentry>Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+        <strow>
+          <stentry>Bordetella</stentry>
+          <stentry>2025-06-30</stentry>
+          <stentry>2026-06-30</stentry>
+          <stentry>Grace Animal Hospital</stentry>
+        </strow>
+        <strow>
+          <stentry>Bordetella (Oral)</stentry>
+          <stentry>2024-12-11</stentry>
+          <stentry>2025-12-11</stentry>
+          <stentry>Tender Heart Mobile Veterinary Services</stentry>
+        </strow>
+      </simpletable>
+    </section>
+
+    <section>
+      <title>Medications and Treatments</title>
+      <ul>
+        <li>Doxycycline: 2025-07-07 to 2025-07-14 (kennel cough)</li>
+        <li>Meloxicam: 2025-07-07 to 2025-07-14 (anti-inflammatory)</li>
+        <li>NexGard (flea/tick prevention): Started 2025-07-21 (given every 30 days)</li>
+        <li>Heartworm prevention: Monthly (start date pending)</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Vet Visit Log</title>
+      <ul>
+        <li>2025-06-30: Grace Animal Hospital - Bordetella vaccine</li>
+        <li>2025-01-07: Tender Heart Mobile Veterinary Services - Rabies, DHPP, Lepto boosters</li>
+        <li>2024-12-11: Tender Heart Mobile Veterinary Services - Bordetella (oral)</li>
+        <li>2025-07-17: Grace Animal Hospital - fecal test</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Upcoming Medical Needs</title>
+      <ul>
+        <li>Heartworm test due: Not yet tested</li>
+        <li>Next flea/tick dose: 2025-08-21</li>
+        <li>Annual physical: 2026-01-07</li>
+        <li>Rabies booster: 2026-01-07</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Record Tips</title>
+      <ul>
+        <li>Keep a copy (digital and printed) for handoffs.</li>
+        <li>Update after every vet visit or treatment.</li>
+        <li>Bring this record to boarding, adoption events, and vet visits.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Vaccination Summary</title>
+      <p>You can also view the full official vaccination record here:</p>
+      <p>
+        <xref href="Docs/vaccinationrecord.pdf" format="pdf">Vaccination Record (PDF)</xref>
+      </p>
+    </section>
+  </refbody>
+</reference>

@@ -1,0 +1,103 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="House-Prep">
+  <title>How to Prepare Your House for a Dog</title>
+  <shortdesc>This guide explains how to create a safe, low-stress environment for a new dog. Whether you're adopting or fostering, preparing your home beforehand helps reduce anxiety, prevent accidents, and support a smoother transition.</shortdesc>
+
+  <taskbody>
+    <steps> 
+      <step>
+        <cmd>Step 1: Choose a Setup Area</cmd>
+        <info>
+          <ul>
+            <li>Designate a quiet, calm zone (e.g., a kitchen corner or utility room) where your dog can eat, rest, and retreat.</li>
+            <li>Keep it free of loud noise or foot traffic.</li>
+            <li>Provide a comfortable bed or crate and soft toys.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Step 2: Dog-Proof Your Home</cmd>
+        <info>
+          <ul>
+            <li>Remove small objects (rubber bands, cords) that could be chewed or swallowed.</li>
+            <li>Secure trash, cleaning supplies, and medications out of reach.</li>
+            <li>Tape down loose cables and ensure balcony doors and stairs are safe.</li>
+          </ul>
+        </info>
+      </step>
+      
+      <step>
+        <cmd>Step 3: Set Up Feeding and Water Stations</cmd>
+        <info>
+          <ul>
+            <li>Use durable bowls on a non-slip mat.</li>
+            <li>Use slow-feeder bowls to reduce gulping for fast eaters.</li>
+            <li>Maintain a consistent feeding schedule.</li>
+            <li>Transition food plans gradually.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Step 4: Establish a Potty Plan</cmd>
+        <info>
+          <ul>
+            <li>Learn the “3-3-3 rule”: let the dog settle in 3 days, bond over 3 weeks, and build confidence over 3 months.</li>
+            <li>Take the dog out first thing in the morning and at regular intervals; every 2 hours if possible.</li>
+            <li>Praise immediately after they potty outside.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Step 5: Prep the Outdoor Space</cmd>
+        <info>
+          <ul>
+            <li>Check fencing for gaps or weak spots.</li>
+            <li>Remove toxic plants and garden chemicals.</li>
+            <li>Pick a potty spot and clear a path to it.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Step 6: Organize Enrichment and Daily Routine</cmd>
+        <info>
+          <ul>
+            <li>Provide chew-safe toys, puzzle feeders, and mental stimulation.</li>
+            <li>Prepare a daily schedule (morning to evening) to establish a routine, especially in the first 3 weeks.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Step 7: Prep Household Members</cmd>
+        <info>
+          <ul>
+            <li>Explain house rules: no hugging immediately, no feeding from the table, calm greetings only.</li>
+            <li>Agree on a consistent training vocabulary for commands. He is currently used to "good boy", "Cerb"</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Step 8: Gather Essentials</cmd>
+        <info>
+          <ul>
+            <li>Get soft-sided crate/bed, bowls, leash, treats, poop bags, grooming tools, safe toys, cleaning supplies.</li>
+            <li>Have these ready before the dog arrives to reduce stress.</li>
+            <li>For a full supply list, check out the <xref href="Reference-Cerberus-Supply-List.dita">Supply List</xref>.</li>
+          </ul>
+        </info>
+      </step>
+    </steps>
+
+    <result>
+      <p>
+        A secure, well-prepared home creates a sense of stability and safety for your pet from day one. 
+        It builds trust and sets a positive foundation for bonding, training, and long-term success.
+      </p>
+    </result>
+  </taskbody>
+</task>

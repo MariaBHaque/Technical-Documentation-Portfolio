@@ -1,0 +1,100 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="post-adoption-troubleshooting">
+  <title>How to Troubleshoot Post-Adoption Issues</title>
+
+  <shortdesc>
+    This guide helps adopters and foster caregivers respond calmly and effectively to common challenges in Cerberus’s first days or weeks, including aggression, anxiety, food refusal, and more. 
+    It provides step-by-step guidance to de-escalate behavior and stabilize trust without punishment or surrender.
+  </shortdesc>
+
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Normalize the “Decompression Phase” (First 3–14 Days)</cmd>
+        <info>
+          <ul>
+            <li>Expect Cerberus to be more withdrawn, overstimulated, or reactive, even if he seemed calm before.</li>
+            <li>Avoid overwhelming him with new people, parks, or pets. Keep the routine quiet and consistent.</li>
+            <li>If his behavior seems “off,” slow things down and avoid adding new stressors.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>If Aggression Occurs (Growling, Lunging, Snapping)</cmd>
+        <info>
+          <ul>
+            <li>Stay still and quiet. Do not reach toward him.</li>
+            <li>Remember: aggression is often fear-based or a form of boundary-setting, not a sign he is “bad”.</li>
+            <li>Note what triggered it: sudden touch? A loud noise? Resource guarding? Proximity to another pet?</li>
+            <li>Do not punish or yell. Give him space. Remove the trigger if it is safe to do so.</li>
+            <li>Use a calm, low voice and redirect him to a safe zone or crate (if conditioned).</li>
+            <li>Document the incident: date, trigger, duration, and recovery time.</li>
+            <li>If it happens repeatedly, contact the foster organization for support.</li>
+          </ul>
+          <note>Track Cerberus's behaviour in the <xref href="Reference-Behaviour-Log.dita">Behaviour Log</xref>.</note>
+        </info>
+      </step>
+
+      <step>
+        <cmd>If Anxiety Arises (Panting, Whining, Destructive Behavior)</cmd>
+        <info>
+          <ul>
+            <li>Confirm his physical needs are met (exercise, potty, food, sleep).</li>
+            <li>Use a calming environment: soft lighting, low noise, avoid eye contact or fast movements.</li>
+            <li>Play calming music or dog-calming YouTube tracks.</li>
+            <li>Offer a treat-stuffed toy, frozen lick mat, or safe chew to redirect.</li>
+            <li>Avoid leaving him alone for long periods early on.</li>
+            <li>Use a consistent phrase like “All done” when leaving to create predictability.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>If Food Refusal Occurs</cmd>
+        <info>
+          <ul>
+            <li>Do not panic. Many dogs refuse food for 24–72 hours in a new home.</li>
+            <li>Offer meals in a quiet, low-distraction area and avoid hovering over him.</li>
+            <li>Try hand-feeding a few bites, then set the bowl down.</li>
+            <li>If dry food is ignored, mix in a small amount of warm water, canned food, or broth.</li>
+            <li>Remove uneaten food after 20 minutes and try again later.</li>
+            <li>Track water intake. Hydration is more important than food early on.</li>
+            <li>If he does not eat for 48+ hours and shows low energy or vomiting, contact a vet.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Track Behavior Patterns Over Time</cmd>
+        <info>
+          <p>Use a <xref href="Reference-Behaviour-Log.dita">Behaviour Log</xref> to record:</p>
+          <ul>
+            <li>Triggers and what calmed him</li>
+            <li>Eating, sleeping, and bathroom habits</li>
+            <li>Reactions to new people or pets</li>
+            <li>Daily wins, even small ones</li>
+          </ul>
+          <p>Share updates with the foster team. Consistent patterns matter more than one-off moments.</p>
+        </info>
+      </step>
+    </steps>
+
+    <postreq>
+      <p>When to Escalate or Ask for Support</p>
+      <p>If any of the following persist beyond 7–10 days:</p>
+      <ul>
+        <li>Unprovoked biting or escalating aggression</li>
+        <li>Extreme withdrawal or cowering</li>
+        <li>No eating for 2+ days</li>
+        <li>Inability to sleep or settle for hours at a time</li>
+        <li>Harmful self-soothing (chewing paws, spinning)</li>
+      </ul>
+      
+      <p>Cerberus is in his toddler phase (cute and a bit anxious!), so he is still settling in and learning the basics. 
+        He already knows the command "down" and "watch". He is working on the command 'sit' after a successful leash evaluation. 
+        Like many young dogs, he can get excited during play and may jump up or nip, but with positive reinforcement and consistent training, he is making progress. 
+        He is currently in training with a professional dog trainer. </p>
+    </postreq>
+  </taskbody>
+</task>

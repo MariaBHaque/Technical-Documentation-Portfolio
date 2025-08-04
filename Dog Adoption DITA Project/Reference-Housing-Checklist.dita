@@ -1,0 +1,36 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="housing-requirements-checklist">
+  <title>Checklist: Housing Requirements</title>
+  <shortdesc>
+    This checklist helps adopters quickly review if their home is ready for a new dog. Use it before submitting an adoption inquiry.
+  </shortdesc>
+
+  <refbody>
+    <section>
+      <title>Quick Checklist</title>
+      <ul>
+        <li>Is your home secure (doors, gates, and fences checked for gaps)?</li>
+        <li>Do you have a quiet space or room where the dog can rest and feel safe?</li>
+        <li>Are harmful items (cleaning products, small objects, wires) stored out of reach?</li>
+        <li>Do you have enough indoor space for the dog to move around comfortably?</li>
+        <li>Do you have a yard, patio, or access to nearby walking areas?</li>
+        <li>Can you block off unsafe areas (stairs, pools, balconies) if needed?</li>
+        <li>Do you have a plan for exercise and potty breaks (especially if you work long hours)?</li>
+        <li>Do you have a designated feeding area (water and food bowls set up)?</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Next Steps</title>
+      <p>
+        If you can check off most or all items, your home is likely ready for a new dog.
+        If you are missing some items, take time to address them before bringing a dog home.
+      </p>
+      <p>
+        For additional preparation tips, see the 
+        <xref href="Task-How-to-Prepare-Your-House-for-a-Dog.dita">How to Prepare Your House for a Dog</xref> guide.
+      </p>
+      <p> Once ready, check out the <xref href="Task-How-to-Adopt-Cerberus.dita">Adoption Inquiry Form</xref> to start the adoption process.</p>
+    </section>
+  </refbody>
+</reference>

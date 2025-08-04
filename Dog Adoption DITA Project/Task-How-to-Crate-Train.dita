@@ -1,0 +1,106 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="crate-training">
+  <title>How to Crate Train Cerberus</title>
+  <shortdesc>
+    Help Cerberus build a positive, voluntary relationship with the crate without using force or confinement. 
+    This is especially important because he has a history of anxiety around crates.
+  </shortdesc>
+
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Understand the Crate as a “Safe Zone,” Not a Containment Tool</cmd>
+        <info>
+          <ul>
+            <li>Never use the crate for punishment.</li>
+            <li>The crate should feel like a choice, not a trap. Treat it as a den or nap pod.</li>
+            <li>Place it in a low-traffic area where the family spends time. The current bathroom location may feel too isolated.</li>
+            <li>Keep the door open at all times during initial exposure.</li>
+          </ul>
+          <p><b>Note:</b> Cerberus gets upset if he is told "go to crate," and he will avoid it. Avoid verbal commands at this stage.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Choose the Right Crate Setup</cmd>
+        <info>
+          <ul>
+            <li>Use a soft-sided crate, as Cerberus scratches and chews on metal crates.</li>
+            <li>Use a flat blanket or bed.</li>
+            <li>Do not use fluffy bedding, as he may chew if anxious.</li>
+            <li>Do not cover the crate unless he is already used to low light or being enclosed.</li>
+            <li>Keep the crate accessible all day, especially after walks or meals when he is calmer.</li>
+          </ul>
+          <p><b>Note:</b> Cerberus will only stay in the crate for up to 30 minutes. Expect very short initial sessions.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Stage 1: Neutral Presence</cmd>
+        <info>
+          <ul>
+            <li>Toss treats near the crate entrance without cues or pressure.</li>
+            <li>Allow Cerberus to sniff, pass by, or ignore it. Do not shut the door.</li>
+          </ul>
+          <p><b>Note:</b> Watch for signs of stress like panting or whining and pause if these appear.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Stage 2: Voluntary Entry and Reward</cmd>
+        <info>
+          <ul>
+            <li>Toss treats further into the crate gradually.</li>
+            <li>Feed meals at the entrance, then inside as comfort builds.</li>
+            <li>Pair entry with a calm word once he starts going in comfortably.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Stage 3: Calm Duration (Door Open)</cmd>
+        <info>
+          <ul>
+            <li>Give Cerberus a stuffed Kong or chew to encourage settling inside.</li>
+            <li>Walk away for a few seconds, then return calmly. Do not hover.</li>
+          </ul>
+          <p><b>Note:</b> Even with calming tools like music or a Thundershirt, Cerberus may only settle for 5–10 minutes before his anxiety increases.</p>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Stage 4: Close the Door Briefly</cmd>
+        <info>
+          <ul>
+            <li>Once Cerberus chooses to enter on his own, close the door for a few seconds, then open it.</li>
+            <li>Gradually extend the time (10 seconds, 30 seconds, 2 minutes).</li>
+            <li>Do not open the door in response to whining. Wait for quiet before releasing.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>When to Use the Crate</cmd>
+        <info>
+          <ul>
+            <li>Use it only if Cerberus voluntarily chooses the crate.</li>
+            <li>Start with calm times of day, such as mornings after a walk.</li>
+            <li>Delay using the crate for overnights or absences until positive association is strong.</li>
+          </ul>
+        </info>
+      </step>
+
+      <step>
+        <cmd>Tips and Alternatives</cmd>
+        <info>
+          <ul>
+            <li>Track his comfort levels in a <xref href="Reference-Behaviour-Log.dita">behaviour log.</xref>.</li>
+            <li>If he avoids the crate for a full day, go back a step in training.</li>
+            <li>Try music, worn t-shirts with foster scent, or dog-calming playlists.</li>
+            <li>If crate anxiety persists, consider a gated safe zone, though Cerberus may jump over barriers.</li>
+          </ul>
+        </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

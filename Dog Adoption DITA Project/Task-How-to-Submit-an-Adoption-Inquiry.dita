@@ -1,0 +1,62 @@
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="submit-adoption-inquiry">
+  <title>How to Submit an Adoption Inquiry</title>
+  <shortdesc>
+    Start Cerberus's adoption process by applying through Adopt-a-Pet using the official application link. If you cannot access the platform, you may email the foster team with the same information.
+  </shortdesc>
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Read Cerberus's Profile Thoroughly</cmd>
+        <info>
+          Review Cerberus’s full biography, behavior notes, and care needs to ensure compatibility before applying.
+        </info>
+      </step>
+      <step>
+        <cmd>Submit Your Application on Adopt-a-Pet</cmd>
+        <info>
+          Complete the application at  
+          <xref href="https://rehome.adoptapet.com/adopters/application/4702523/step-1" class="- topic/xref " scope="external" format="html">
+            Adopt-a-Pet: Cerberus’s Adoption Application
+          </xref>.  
+          This is the fastest and preferred way to start the process.  
+          <note>The current adoption fee is $100.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>If You Cannot Apply Online, Send an Email Instead</cmd>
+        <info>
+          If you are unable to access Adopt-a-Pet, email the foster team at christinaemayr@gmail.com with the following information:
+          <ul>
+            <li>Your full name and location (city, state)</li>
+            <li>A brief introduction about yourself and household members (including other pets)</li>
+            <li>Why you feel Cerberus would be a good fit for your home</li>
+            <li>Housing situation</li>
+            <li>Any relevant experience with dogs or high-energy breeds</li>
+          </ul>
+          <note>Include photos of your home or yard if possible. This helps the team assess suitability.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>Wait for a Response</cmd>
+        <info>
+          A foster coordinator or volunteer will follow up within 2–3 business days.  
+          They may ask clarifying questions or suggest next steps (screening call, home check, or meet-and-greet).
+        </info>
+      </step>
+    </steps>
+    <postreq>
+      <p><b>Tips for Success</b></p>
+      <ul>
+        <li>Be honest and specific. The goal isn’t to “pass,” but to find the right match.</li>
+        <li>Don’t worry if your setup isn’t perfect. Many issues can be supported with guidance.</li>
+        <li>If you’re unsure about adopting but want to learn more, say so in your message.</li>
+      </ul>
+      <p><b>For Foster Organizations</b></p>
+      <p>
+        You can reuse or adapt this text for adoption listings or email templates.  
+        It helps standardize applications, reduce back-and-forth, and makes it easier to assess fit before proceeding.
+      </p>
+    </postreq>
+  </taskbody>
+</task>

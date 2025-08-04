@@ -1,0 +1,36 @@
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="External-Breed-Reference">
+  <title>External Breed Reference: Boxer–German Shepherd</title>
+  <shortdesc>
+    Learn more about the Boxer and German Shepherd breeds. 
+    These external links provide detailed information about the breeds’ temperament, energy levels, and care needs.
+  </shortdesc>
+
+  <refbody>
+    <section>
+      <title>Boxer Breed Information</title>
+      <p>For an overview of the Boxer breed, including health, exercise, and personality traits,
+        visit the American Kennel Club (AKC) Boxer breed page: </p>
+      <p>
+        <xref format="html" scope="external" href="https://www.akc.org/dog-breeds/boxer/">Boxer Breed Info (AKC)</xref>
+      </p>
+    </section>
+
+    <section>
+      <title>German Shepherd Breed Information</title>
+      <p>For an overview of the German Shepherd breed, including care, socialization, and training
+        needs, visit the American Kennel Club (AKC) German Shepherd breed page: </p>
+      <p>
+        <xref format="html" scope="external" href="https://www.akc.org/dog-breeds/german-shepherd-dog/">German Shepherd Breed Info (AKC)</xref>
+      </p>
+    </section>
+
+    <section>
+      <title>Why This Matters for Cerberus</title>
+      <p>Cerberus is a Boxer–German Shepherd mix. Understanding these breeds’ general
+        characteristics can help adopters prepare for his high energy, intelligence, and need for
+        structured activity. Individual personality and history will vary, so use this as general
+        context only. </p>
+    </section>
+  </refbody>
+</reference>

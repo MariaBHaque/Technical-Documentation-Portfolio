@@ -1,0 +1,24 @@
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="adoption-tools-overview">
+  <title>Adoption Tools Overview</title>
+
+  <conbody>
+    <p>
+      This toolkit supports both foster teams and potential adopters by providing clear, modular resources that make it easier to understand and care for Cerberus. 
+      Each tool is designed to be practical, shareable, and focused on setting him up for long-term success.
+    </p>
+
+  <p>What’s Included:</p>
+  <ul>
+    <li><xref href="Concept-Cerberus-Match-Guide.dita"/>: Screen for fit</li>
+    <li><xref href="Reference-Foster-Contact-Sheet.dita"/>: Centralized information for coordinating with support network</li>
+    <li><xref href="Reference-Cerberus-Health-and-Vaccination-Record.dita"/>: Snapshot of Cerberus’s medical history</li>
+    <li><xref href="Reference-Daily-Routine.dita"/>: A.M.-to-P.M. structure to reduce guesswork and support transition</li>
+    <li><xref href="Reference-Behaviour-Log.dita"/>: Track behavioural progress over time</li>
+    <li>Photo Repository: High-resolution images ready for listings and social media</li>
+    <li><xref href="Reference-External-Breed-Info.dita"/>: Context for breed mix (Boxer–German Shepherd)</li>
+    <li><xref href="Task-How-to-Prepare-Your-House-for-a-Dog.dita"/>: Preparing your living space for Cerberus</li>
+    <li><xref href="Task-How-to-Make-Frozen-Treats.dita"/>: Treat recipe for mental stimulation</li>
+  </ul>
+  </conbody>
+</concept>

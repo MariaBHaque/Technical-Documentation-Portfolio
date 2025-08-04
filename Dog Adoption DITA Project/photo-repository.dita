@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="photo-repository.dita">
+    <title>Photo Repository</title>
+    <shortdesc>This photo repository contains pictures of Cerberus with his foster family and friends. Photos are accompanied with a short description.</shortdesc>
+    <conbody>
+        <image href="Images/IMG_0132.JPG" alt="Cerberus Playing Catch Outside" width="300"
+            height="300"/>
+        <codeblock id="codeblock_adq_nxz_2gc">Cerberus smiling at the camera.</codeblock>
+        <image href="Images/IMG_0120.JPG" alt="Cerberus Playing Catch Outside" width="310"
+            height="300"/>
+        <codeblock id="codeblock_gps_4xz_2gc">Cerberus in the driveway.</codeblock>
+        <image href="Images/IMG_0125.JPG" alt="Cerberus Playing Catch Outside" width="260"
+            height="340"/>
+        <codeblock id="codeblock_f3g_pxz_2gc">Cerberus on the field.</codeblock>
+        <image href="Images/IMG_0138.JPG" alt="Cerberus Playing Catch Outside" width="350"
+            height="300"/>
+        <codeblock id="codeblock_rdg_rxz_2gc">Cerberus laying down.</codeblock>
+        <image href="Images/IMG_0151.JPG" alt="Cerberus Playing Catch Outside" width="340"
+            height="340"/>
+        <codeblock id="codeblock_ybm_sxz_2gc">Cerberus getting a treat.</codeblock>
+        <image href="Images/IMG_0182.JPG" alt="Cerberus Playing Catch Outside" width="340"
+            height="340"/>
+        <codeblock id="codeblock_qnf_txz_2gc">Cerberus at the dog park with his foster family.</codeblock>
+        <image href="Images/IMG_0173.JPG" alt="Cerberus Playing Catch Outside" width="290"
+            height="360"/>
+        <codeblock id="codeblock_qc1_5xz_2gc">Cerberus in a crate.</codeblock>
+        <image href="Images/IMG_0282.JPG" alt="Cerberus Playing Catch Outside" width="380"
+            height="340"/>
+        <codeblock id="codeblock_xj1_vxz_2gc">Cerberus sunbathing.</codeblock>
+        <image href="Images/IMG_0305.JPG" alt="Cerberus Playing Catch Outside" width="355"
+            height="310"/>
+        <codeblock id="codeblock_ycp_vxz_2gc">Cerberus sleeping on his mini foster human.</codeblock>
+        <image href="Images/IMG_0393.JPG" alt="Cerberus Playing Catch Outside" width="240"
+            height="300"/>
+        <codeblock id="codeblock_fzg_wxz_2gc">Cerberus sitting outside.</codeblock>
+        <image href="Images/IMG_0420.JPG" alt="Cerberus Playing Catch Outside" width="250"
+            height="300"/>
+        <codeblock id="codeblock_ewm_xxz_2gc">Cerberus playing catch at the dog park.</codeblock>
+        <image href="Images/IMG_0183.JPG" id="image_aqz_bxz_2gc" height="300"/>
+        <codeblock id="codeblock_jz3_yxz_2gc">Cerberus in a car ride with his foster family.</codeblock>
+        <image href="Images/IMG_0307.JPG" id="image_qhx_jxz_2gc" height="300"/>
+        <codeblock id="codeblock_gsn_zxz_2gc">Cerberus playing with a toy.</codeblock>
+        <image href="Images/IMG_F6B04905-7CB3-43BA-98E0-690D94E4EBE3.jpeg" id="image_cbb_lxz_2gc"
+            height="300"/>
+        <codeblock id="codeblock_rb1_1yz_2gc">Cerberus being goofy!</codeblock>
+    </conbody>
+</concept>

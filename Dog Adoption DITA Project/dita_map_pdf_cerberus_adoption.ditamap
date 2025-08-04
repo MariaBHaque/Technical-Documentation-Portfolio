@@ -1,0 +1,38 @@
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <topichead navtitle="About Cerberus">
+        <topicref href="Concept-Cerberus-Profile.dita"/>
+        <topicref href="Concept-Cerberus-History.dita"/>
+        <topicref href="Reference-External-Breed-Info.dita"/>
+        <topicref href="Concept-Cerberus-Match-Guide.dita"/>
+        <topicref href="Concept-Adoption-Tools-Overview.dita"/>
+    </topichead>
+    <topichead navtitle="Adoption Process" collection-type="unordered">
+        <topicref href="Task-How-to-Adopt-Cerberus.dita"/>
+        <topicref href="Task-How-to-Submit-an-Adoption-Inquiry.dita"/>
+    </topichead>
+    <topichead navtitle="Preparing for Adoption">
+        <topicref href="Reference-Housing-Checklist.dita"/>
+        <topicref href="Task-How-to-Prepare-Your-House-for-a-Dog.dita"/>
+        <topicref href="Reference-Cerberus-Supply-List.dita"/>
+        <topicref href="Reference-Common-Housing-Questions.dita"/>
+    </topichead>
+    <topichead navtitle="Welcoming Cerberus Home">
+        <topicref href="Reference-Daily-Routine.dita"/>
+        <topicref href="Task-How-to-Crate-Train.dita"/>
+        <topicref href="Task-How-to-Make-Frozen-Treats.dita"/>
+        <topicref href="Task-How-to-Introduce-Cerberus-to-a-Cat.dita"/>
+        <topicref href="Reference-Cerberus-Health-and-Vaccination-Record.dita"/>
+    </topichead>
+    <topichead navtitle="Post-Adoption Support">
+        <topicref href="Reference-Behaviour-Log.dita"/>
+        <topicref href="Task-How-to-Troubleshoot-Post-Adoption-Issues.dita"/>
+    </topichead>
+    <topichead navtitle="Fact Sheets for Adopters and Foster Agents">
+        <topicref href="Reference-Foster-Fact-Sheet.dita"/>
+        <topicref href="Reference-Foster-Contact-Sheet.dita"/>
+    </topichead>
+    <topichead navtitle="Media">
+        <topicref href="photo-repository.dita"/>
+    </topichead>
+</map>
