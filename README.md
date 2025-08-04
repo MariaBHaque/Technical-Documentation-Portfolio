@@ -14,14 +14,25 @@ A sample onboarding guide for new employees written in Markdown. Includes:
 - Troubleshooting contact info
 - FAQs
 
-[View the user guide here](Sample%20User%20Guide/UserGuide)  
+[View the User Guide here](Sample%20User%20Guide/UserGuide)  
 
-## Skills Demonstrated
-
+### Skills Demonstrated
 - Structured writing for technical users
 - Markdown formatting best practices
 - Git/GitHub version control
 - Audience-aware tone and clarity
 
-__More projects coming soon, including:__
-- A DITA-based dog adoption guide (currently in development)
+### Project 2: Dog Adoption Site (In Progress)
+A DITA project with structured XML topics. 
+- Includes content, task, and reference topics
+- Designed for both first-time adopters and fostering agencies
+
+[View the Dog Adoption Project here](Dog%20Adoption%20DITA%20Project)
+
+### Skills Demonstrated
+- Structured XML authoring and topic-based architecture
+- Editing, clarifying requirements, and technical querying
+- UX-driven research and audience analysis
+- Scalable, reusable documentation with conditional filtering
+
+_More projects coming soon!_
