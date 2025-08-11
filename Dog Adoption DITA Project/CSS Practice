@@ -1,0 +1,39 @@
+.cover,
+.front-cover,
+.frontpage,
+.booktitlepage,
+.titlepage {
+  display: none !important;
+}
+
+@page:first {
+  display: none;
+}
+
+.chapter-number,
+.chapter-label {
+  display: none !important;
+}
+
+.topic {
+  break-before: page;
+  page-break-before: always;
+}
+
+.topic > .title,
+.topictitle1,
+.chaptertitle,
+h1 {
+  break-after: avoid !important;
+  page-break-after: avoid !important;
+}
+
+h1 + * {
+  break-before: avoid !important;
+  page-break-before: avoid !important;
+}
+
+a[href^="mailto"], .breakable, a {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
